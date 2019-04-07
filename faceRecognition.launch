@@ -1,0 +1,6 @@
+<launch>
+
+  <param name="train_file_path" type="string" value="$(find  robina_faceRecognition)/bin"/>
+  <node name="robina_faceRecognition" pkg="robina_faceRecognition" type="robina_faceRecognition" output="screen" args=""/>
+  
+</launch>

@@ -1,0 +1,9 @@
+#goal definition
+string  goalPerson
+---
+#result definition
+string  faceRecognizedName
+---
+#feedback
+string  faceDetectedName
+
