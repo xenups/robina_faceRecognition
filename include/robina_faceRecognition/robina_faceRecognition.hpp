@@ -31,8 +31,10 @@
 
 #include "LuxandFaceSDK.h"
 #include <boost/signals2/mutex.hpp>
-#define  SERIAL_KEY "NTAmlOelBiP3Nm+yeJV/LwwH6yEYNuhndErN69DMzewzUV5RElzKIqSA6NE2YHCkyLzzK9OvVAW0qpu31iDeXvgckg25pmkOO7o67pv9rDLeNSzCzubasJ7vwoJQxqHtZESWYzAS3AxsNNrXM8KdUUiUxyi0R790gKEyqCAanuo="
-
+#define  SERIAL_KEY "UR Serial KEY"
+//u need buy a serial key like from Luxand Website 
+ ///the serial key must look like this : NTAmlOelBiP3Nm+yeJV/LwwH6yEYNuhndErN69DMzewzUV5RElzKIqSA6NE2YHCkyLzzK9OvVAW0qpu31iDeXhgckg25pyuOO7o67pv9rDLeNSzCzubasJ7vwoJQxqHtZESWYzAS3AxsNNrXM8KdUUiUxyi0R790gKEyqCAanuo=
+///Notice : this serial is an example  and doesnt work 
 using namespace std;
 using namespace cv;
 
